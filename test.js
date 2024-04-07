@@ -1,5 +1,6 @@
-console.log("Hola Mundo")
+console.log("-------------")
+console.log("Hola Mundo!!!")
 
-let nombre = "Adrian"
+let nombre = "Miguel"
 
 console.log(nombre)
